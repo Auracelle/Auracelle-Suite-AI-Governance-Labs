@@ -1,0 +1,102 @@
+AURACELLE AI GOVERNANCE LABS — PROPRIETARY SOFTWARE LICENSE
+
+Copyright © 2025–2026 Grace-Alice Evans / Auracelle AI Governance Labs
+All Rights Reserved.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+NOTICE OF PROPRIETARY RIGHTS
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+This software, including all source code, documentation, visual designs,
+simulation architectures, framework taxonomies, scoring methodologies,
+canvas animations, and associated assets (collectively, the "Software"),
+is the exclusive proprietary intellectual property of Grace-Alice Evans
+and Auracelle AI Governance Labs.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+WHAT IS PROTECTED
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+The following are original works of Grace-Alice Evans and are protected
+under applicable copyright, trade secret, and intellectual property law:
+
+  · The Auracelle Simulation Suite (Stress Point, Orion, Lyra, Delphi,
+    Bach, Polaris, WinterStorm2030) — simulation architectures, logic,
+    and scoring systems
+  · The E-AGPO-HT, E-AGSO-HT, and E-IAIG-HT proprietary frameworks —
+    including all strata, domain mappings, formulas, and taxonomy
+  · The tagline "Wargaming the Governance Asynchronously™"
+  · The coined term "stress-tested governance"
+  · All visual designs, UI layouts, canvas animations, and dashboard
+    aesthetics contained in this repository
+  · The WinterStorm2030 simulation, Concession Engine architecture,
+    and NATO STO SAS-219 alignment methodology
+  · The Charlie Gray Zone framing and soft-factor pillar model
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+PERMITTED USES
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+Permission is granted solely to:
+
+  1. VIEW this repository and its contents for informational and
+     academic reference purposes.
+
+  2. CITE this work in academic, policy, and research publications,
+     provided full attribution is given to Grace-Alice Evans and
+     Auracelle AI Governance Labs in accordance with the CITATION.cff
+     file included in this repository.
+
+  3. LINK to the live site or this repository for reference purposes.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+PROHIBITED USES
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+The following are expressly prohibited without prior written consent
+from Grace-Alice Evans:
+
+  · Copying, reproducing, or distributing any portion of this Software
+  · Modifying, adapting, or creating derivative works
+  · Reverse engineering any simulation architecture, scoring method,
+    or framework taxonomy
+  · Using any component of this Software in commercial products or services
+  · Claiming authorship or ownership of any element of this Software
+  · Reproducing the visual design, UI layout, or canvas animations for
+    any other project or platform
+  · Disclosing proprietary framework details (strata, formulas, NOF
+    mappings) in any public or private context without authorisation
+  · Training machine learning models on this Software or its derivatives
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+INSTITUTIONAL AND RESEARCH PARTNERSHIPS
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+Institutional use, research collaboration, or partnership licensing may
+be arranged by contacting Grace-Alice Evans directly. Existing formal
+engagements (Bath Spa University, UC Berkeley CLTC, NATO STO SAS-219)
+operate under separate written agreements.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+DISCLAIMER
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+THIS SOFTWARE IS PROVIDED "AS IS" FOR INFORMATIONAL AND DEMONSTRATION
+PURPOSES. AURACELLE AI GOVERNANCE LABS MAKES NO WARRANTIES, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE, OR NON-INFRINGEMENT. IN NO EVENT SHALL
+GRACE-ALICE EVANS OR AURACELLE AI GOVERNANCE LABS BE LIABLE FOR ANY CLAIM,
+DAMAGES, OR OTHER LIABILITY ARISING FROM THE USE OF THIS SOFTWARE.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+CONTACT
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+Grace-Alice Evans
+Founder & Principal Investigator, Auracelle AI Governance Labs
+Non-Resident Senior Fellow, UC Berkeley Center for Long-Term Cybersecurity
+Doctoral Candidate, Bath Spa University
+NATO STO SAS-219 Technical Role Member
+
+LinkedIn: https://www.linkedin.com/in/grace-alice-evans-5a9632a3
+Platform:  https://auracelle.github.io/Auracelle-AI-Governance-Labs-Platform-Comms-Public
