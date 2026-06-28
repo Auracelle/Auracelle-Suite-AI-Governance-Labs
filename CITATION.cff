@@ -1,0 +1,118 @@
+cff-version: 1.2.0
+message: >
+  If you use or reference the Auracelle AI Governance Labs Simulation Suite,
+  the Wargaming the Governance Asynchronously™ methodology, or any associated
+  frameworks (E-AGPO-HT, E-AGSO-HT, E-IAIG-HT) in your research, publications,
+  or policy work, please cite using the metadata below.
+
+title: >
+  Auracelle AI Governance Labs — Simulation Suite:
+  Wargaming the Governance Asynchronously™
+
+authors:
+  - family-names: Evans
+    given-names: Grace-Alice
+    orcid: ""
+    affiliation: >
+      Auracelle AI Governance Labs;
+      UC Berkeley Center for Long-Term Cybersecurity (CLTC), Non-Resident Senior Fellow;
+      Bath Spa University, Doctoral Candidate;
+      NATO STO SAS-219, Technical Role Member (R4, R5, R7)
+
+version: "2026.1"
+date-released: "2026-01-08"
+license: "Proprietary — see LICENSE.txt"
+repository-code: >
+  https://github.com/auracelle/Auracelle-AI-Governance-Labs-Platform-Comms-Public
+url: >
+  https://auracelle.github.io/Auracelle-AI-Governance-Labs-Platform-Comms-Public
+
+abstract: >
+  The Auracelle Simulation Suite is a proprietary asynchronous wargaming platform
+  designed to stress-test AI governance policy, cyber resilience, standards
+  verification, nuclear non-proliferation compliance, space governance, cognitive
+  warfare readiness, and Arctic High North hybrid warfare diplomacy. The suite
+  comprises seven simulation instruments — Stress Point (Charlie), Orion, Lyra,
+  Delphi, Bach, Polaris, and WinterStorm2030 — underpinned by three proprietary
+  frameworks: E-AGPO-HT (AI Governance Policy Optimization), E-AGSO-HT (AI
+  Governance Standards Optimization), and E-IAIG-HT (Institutional AI Intelligence
+  Governance). The platform operationalises the coined methodology of
+  "stress-tested governance": revealing exactly where institutions fail before
+  reality demands it.
+
+keywords:
+  - AI governance
+  - wargaming
+  - simulation
+  - stress-tested governance
+  - policy wargaming
+  - cyber governance
+  - non-proliferation
+  - cognitive warfare
+  - Arctic governance
+  - WinterStorm2030
+  - NATO STO SAS-219
+  - asynchronous wargaming
+  - decision-making under pressure
+  - Bath Spa University
+  - UC Berkeley CLTC
+
+references:
+  - type: thesis
+    title: >
+      Testing Public Policy Outcomes through War Gaming Methodologies
+      for Strengthening AI Governance
+    authors:
+      - family-names: Evans
+        given-names: Grace-Alice
+    institution:
+      name: Bath Spa University
+    supervisor:
+      - family-names: Curry
+        given-names: John
+    status: in-preparation
+    department: Doctoral Research
+
+  - type: article
+    title: >
+      Playing the Future: Insights from Wargaming Cyber Conflict
+    authors:
+      - family-names: Curry
+        given-names: John
+    journal: The Cyber Defence Review
+    year: 2026
+    notes: Primary thesis reading — Phase 1 and Phase 5 viva
+
+  - type: conference-paper
+    title: >
+      Wargame the Governance, Not Just the War
+    authors:
+      - family-names: Evans
+        given-names: Grace-Alice
+    conference:
+      name: War on the Rocks
+    year: 2026
+    notes: Opinion piece — coined term "stress-tested governance"
+
+  - type: conference-paper
+    title: >
+      Auracelle presents Stress Point — AI Governance Wargaming Simulation
+    authors:
+      - family-names: Evans
+        given-names: Grace-Alice
+    conference:
+      name: WSIS Forum 2026, Session 381
+      location: Geneva, Switzerland
+    date: "2026-07-07"
+
+  - type: conference-paper
+    title: >
+      Auracelle Lyra — Proliferation Compliance and Verification Wargaming
+    authors:
+      - family-names: Evans
+        given-names: Grace-Alice
+    conference:
+      name: IAEA Safeguards Symposium 2026
+      location: Vienna, Austria
+    year: 2026
+    notes: Abstract #24, oral submission accepted; paper due August 2026
